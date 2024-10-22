@@ -4,3 +4,5 @@ another defect solved
 one more solved issue
 
 another fix msg for pink mode
+
+another fix msg for purple mode
