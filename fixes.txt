@@ -1,2 +1,3 @@
 fix file which will fix the bug
 fixed 1 defect
+another defect solved
